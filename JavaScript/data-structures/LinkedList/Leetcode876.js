@@ -21,7 +21,6 @@ var middleNode = function (list) {
         current = current.next;
         count++;
     }
-
 }
 
 middleNode(ll1)

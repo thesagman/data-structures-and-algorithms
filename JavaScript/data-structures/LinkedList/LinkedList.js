@@ -156,29 +156,29 @@ class LinkedList {
 
 }
 if (require.main === module) {
-const ll = new LinkedList()
-ll.InsertFirst(1);
-ll.InsertFirst(2);
-ll.InsertFirst(3);
-ll.InsertLast(0)
-// ll.InsertAtIndex(2.5, 1)
-// ll.InsertAtIndex(4, 0)
-// ll.InsertAtIndex(.05, 5)
-// ll.RemoveAtIndex(2)
-// ll.RemoveAtIndex(0)
-// ll.clear()
-// console.log(ll);
-// ll.deleteFirst()
-// ll.deleteLast()
-// ll.delete(2)
-// ll.delete(0)
-ll.deleteFirst()
-ll.delete(2)
+    const ll = new LinkedList()
+    ll.InsertFirst(1);
+    ll.InsertFirst(2);
+    ll.InsertFirst(3);
+    ll.InsertLast(0)
+    // ll.InsertAtIndex(2.5, 1)
+    // ll.InsertAtIndex(4, 0)
+    // ll.InsertAtIndex(.05, 5)
+    // ll.RemoveAtIndex(2)
+    // ll.RemoveAtIndex(0)
+    // ll.clear()
+    // console.log(ll);
+    // ll.deleteFirst()
+    // ll.deleteLast()
+    // ll.delete(2)
+    // ll.delete(0)
+    ll.deleteFirst()
+    ll.delete(2)
 
-ll.display()
+    ll.display()
 
-// ll.GetAtIndex(5);
-console.log(`This Size of the List is ${ll.size}`);
+    // ll.GetAtIndex(5);
+    console.log(`This Size of the List is ${ll.size}`);
 }
 
 module.exports = LinkedList;
