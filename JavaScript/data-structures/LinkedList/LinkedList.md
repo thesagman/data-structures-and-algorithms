@@ -17,6 +17,10 @@
 
 7. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
+8. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+9. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
 ## Medium
 
 1. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
