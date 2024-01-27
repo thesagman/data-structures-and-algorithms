@@ -13,6 +13,10 @@
 
 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
+6. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+
+7. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
 ## Medium
 
 1. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
