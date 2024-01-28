@@ -181,4 +181,4 @@ if (require.main === module) {
     console.log(`This Size of the List is ${ll.size}`);
 }
 
-module.exports = LinkedList,Node;
+module.exports = LinkedList;
