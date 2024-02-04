@@ -40,3 +40,17 @@
 18. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 
 19. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
+
+20. [Two Sum](https://leetcode.com/problems/two-sum/)
+
+21. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+
+22. [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+
+23. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+
+24. [Plus One](https://leetcode.com/problems/plus-one/)
+
+25. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+26. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
